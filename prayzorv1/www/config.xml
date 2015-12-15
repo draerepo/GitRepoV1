@@ -17,6 +17,7 @@
        Drae
     </author>
     
-<platform name="wp8" />
+
+<platform name="winphone|wp8" />
 
 </widget>
