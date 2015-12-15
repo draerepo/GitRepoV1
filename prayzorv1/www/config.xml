@@ -18,6 +18,7 @@
     </author>
     
 <content src="index.html" />
+<access origin="*" />
 <platform name="winphone|wp8" />
 
 </widget>
