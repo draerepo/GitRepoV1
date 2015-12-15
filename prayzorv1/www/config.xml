@@ -17,6 +17,6 @@
        Drae
     </author>
     
-<gap:platform name="winphone" />
+<platform name="wp8" />
 
 </widget>
